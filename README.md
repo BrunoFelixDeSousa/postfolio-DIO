@@ -3,8 +3,8 @@ Nesse projeto você foi colocado em pratica animações utilizando CSS. Dentre e
 
 
 ## versão desktop
-<img src="projeto_final\img\projeto_final_ desktop.png">
+<img src="img\projeto_final_ desktop.png">
 
 
 ## versão mobile
-<img src="projeto_final\img\projeto_final_mobile.png">
+<img src="img\projeto_final_mobile.png">
